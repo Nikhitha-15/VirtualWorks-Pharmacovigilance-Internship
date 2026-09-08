@@ -1,0 +1,82 @@
+# Task 1 – ADR Identification Basics
+
+## ADR Case Analysis
+
+### SECTION A – PATIENT INFORMATION
+
+1. Patient initials: Not stated in scenario
+2. Age / Date of birth: 45 years
+3. Gender: Female
+4. Weight (kg): Not stated in scenario
+
+### SECTION B – SUSPECTED ADVERSE REACTION
+
+5. Event / Reaction start date:
+Day -2 (approximately 3 days after starting amoxicillin)
+
+6. Event / Reaction stop date:
+Ongoing – persisting as of Day 0
+
+7. Describe event / reaction:
+Rash, pruritus (itching), nausea, dizziness
+
+12. Relevant investigations with dates:
+Not stated in scenario
+
+13. Relevant medical / medication history:
+Not stated in scenario
+
+14. Seriousness of reaction:
+Not specified – to confirm with reporter
+
+15. Outcome:
+Not recovered (as of Day 0)
+
+### SECTION C – SUSPECTED MEDICATION(S)
+
+8. Suspect / concomitant drug details
+Suspected Drug-Amoxicillin
+Role-Suspect
+Dose/Route-Not Specified
+Therapy Start-Day-5
+Therapy Stop-Not Stoped
+Indication-Not  Specified
+Concomitant Drug-Paracetamol
+Dose/Route-Not Specified
+Therapy Start-PRN
+Therapy Stop-PRN
+Indication-Not  Specified
+
+9. Action taken after reaction:
+Not stated – dechallenge status unknown
+
+10. Rechallenge (reaction reappeared on reintroduction):
+Not performed / Not applicable
+
+11. Concomitant medication:
+Paracetamol, taken PRN
+
+## CAUSALITY ASSESSMENT – WHO-UMC
+
+### Causality: POSSIBLE
+
+There is a reasonable time relationship (approximately 3 days after starting amoxicillin) and a pharmacologically plausible cause is present, but the case cannot be upgraded to "Probable" until the dechallenge outcome is confirmed.
+
+## SECTION D – REPORTER DETAILS
+
+16. Name & Address:
+To be completed by reporter
+
+Occupation / Contact / Signature:
+To be completed by reporter
+
+17. Date of report:
+To be completed by reporter
+
+## CASE NARRATIVE
+
+A 45-year-old female presented with rash, pruritus (itching), nausea and dizziness. The patient had been taking amoxicillin, started 5 days prior to reporting, along with paracetamol taken as needed. Reaction onset occurred approximately 3 days after starting amoxicillin and symptoms were ongoing (not recovered) as of the day of reporting.
+
+## CONCLUSION
+
+Amoxicillin is the suspected drug associated with the reported rash, pruritus, nausea and dizziness. Based on the available information, the WHO-UMC causality assessment is POSSIBLE.
