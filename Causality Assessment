@@ -1,0 +1,93 @@
+TASK 3 | CAUSALITY ASSESSMENT
+
+Case: Amoxicillin-associated skin rash
+Assessment: Case-based assessment
+
+1. PATIENT INFORMATION
+
+Name: Not reported
+Age: 45 years
+Sex: Female
+
+2. CLINICAL INFORMATION
+
+Suspected Drug: Amoxicillin
+Adverse Reaction: Skin rash
+Outcome: Recovered
+
+3. CASE NARRATIVE
+
+A 45-year-old female developed a skin rash 3 days after starting amoxicillin. Amoxicillin was discontinued, following which the patient recovered. No information was available regarding alternative causes, previous similar reactions, rechallenge, placebo, dose-response, drug concentration, or objective confirmation.
+
+4. TEMPORAL RELATIONSHIP
+
+Day 0: Drug started — Amoxicillin initiated
+Day 3: Skin rash began
+Day 3: Drug stopped — Amoxicillin discontinued
+After stopping: Rash resolved — Patient recovered
+
+5. WHO–UMC CAUSALITY ASSESSMENT
+
+1. Plausibility: Yes
+Skin rash is a known reaction associated with amoxicillin.
+
+2. Reasonable time relationship: Yes
+Rash occurred 3 days after starting amoxicillin.
+
+3. Temporal sequence: Yes
+Drug started → Rash began → Drug stopped → Rash resolved.
+
+4. Alternative explanations: Cannot exclude
+No information was available regarding alternative causes.
+
+5. Dechallenge: Positive
+Rash improved after amoxicillin was discontinued.
+
+6. Rechallenge: Not done
+Rechallenge was not reported.
+
+FINAL ASSESSMENT — WHO–UMC
+
+POSSIBLE
+
+Conclusion: The event has a reasonable temporal relationship and improved after withdrawal of amoxicillin. However, alternative causes cannot be adequately excluded and rechallenge was not performed. Therefore, the case is classified as POSSIBLE.
+
+6. NARANJO ALGORITHM
+
+Q1. Previous conclusive reports? — Do not know → 0
+Q2. Event appeared after drug administration? — Yes → +2
+Q3. Reaction improved after discontinuation? — Yes → +1
+Q4. Reaction reappeared after re-administration? — Do not know → 0
+Q5. Alternative causes? — Do not know → 0
+Q6. Reaction reappeared with placebo? — Do not know → 0
+Q7. Drug detected at toxic levels? — Do not know → 0
+Q8. Dose-response relationship? — Do not know → 0
+Q9. Similar previous reaction? — Do not know → 0
+Q10. Objective confirmation? — Do not know → 0
+
+TOTAL SCORE: 3
+
+NARANJO CAUSALITY CATEGORY: POSSIBLE
+
+7. OVERALL ASSESSMENT
+
+WHO–UMC: POSSIBLE
+Naranjo Algorithm: POSSIBLE
+Naranjo Score: 3
+
+8.Conclusion:
+
+Clear temporal relationship between amoxicillin administration and skin rash.
+
+Positive dechallenge following discontinuation of amoxicillin.
+
+Alternative causes could not be excluded.
+
+Rechallenge was not reported.
+
+Both WHO–UMC and Naranjo assessments indicate POSSIBLE causality.
+
+
+FINAL CONCLUSION
+
+Amoxicillin-associated skin rash → WHO–UMC: POSSIBLE , Naranjo: POSSIBLE (Score: 3)
