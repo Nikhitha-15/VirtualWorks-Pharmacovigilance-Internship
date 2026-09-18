@@ -1,0 +1,212 @@
+# TASK 4 | ICSR CASE CLASSIFICATION & SEVERITY ANALYSIS
+
+ Objective
+
+Classify adverse drug reaction (ADR) cases based on **severity, seriousness, and expectedness. Evaluate multiple cases and determine their clinical impact using pharmacovigilance guidelines.
+
+ Classification Criteria
+
+1. Severity
+
+Severity describes the intensity of the adverse event and its clinical impact on the patient.
+
+### Mild
+- Easily tolerated
+- No intervention required
+
+### Moderate
+- Requires treatment or non-temporary intervention
+
+### Severe
+- Life-threatening
+- Requires hospitalization or intensive treatment
+- May result in significant disability
+
+Severity is about the intensity of the event, not the outcome.
+
+
+## 2. Seriousness
+
+Seriousness is determined according to regulatory seriousness criteria and is based on the clinical outcome or situation.
+
+An adverse event is considered serious if it results in or involves:
+
+- Death
+- Life-threatening condition
+- Requires hospitalization or prolongation of existing hospitalization
+- Results in persistent or significant disability/incapacity
+- Congenital anomaly/birth defect
+- Other medically important condition
+
+Seriousness is based on the outcome, not just the severity.
+
+
+## 3. Expectedness
+
+Expectedness is assessed against the applicable product information, such as the SmPC (Summary of Product Characteristics) or approved product Label.
+
+### Expected
+- Event is listed in the applicable SmPC/Label
+- The event is a known adverse drug reaction
+
+### Unexpected
+- Event is not mentioned in the applicable product information
+- Event is not consistent with the applicable SmPC/Label
+
+Always assess expectedness against the applicable product information (SmPC/Label), not general medical knowledge.
+
+---
+
+# 🧪 CASE ASSESSMENT
+
+## Case 1 — Amoxicillin
+
+### Adverse Event
+**Skin rash, itching**
+
+### Severity & Criteria
+**Mild**
+- Easily tolerated
+- No intervention required
+
+### Seriousness & Criteria
+**Non-serious**
+- Does not meet any serious criteria
+- No hospitalization/disability
+
+### Expectedness & Criteria
+- Expected
+- Listed in SmPC/Label
+- Common ADR
+
+### Clinical Impact & Rationale
+- Low clinical impact
+- Managed with symptomatic treatment
+- No hospitalization required
+
+---
+
+## Case 2 — Ibuprofen
+
+### Adverse Event
+- Gastrointestinal bleeding, requiring hospitalization**
+
+### Severity & Criteria
+- Severe
+- Life-threatening
+- Requires intensive treatment and hospitalization
+
+### Seriousness & Criteria
+- Serious
+- Requires hospitalization
+- Life-threatening
+
+### Expectedness & Criteria
+- Expected
+- Listed in SmPC/Label
+- GI bleeding
+
+### Clinical Impact & Rationale
+- High clinical impact
+- Hospitalization and intensive care
+- Risk of long-term GI complications
+
+
+## Case 3 — Metformin
+
+### Adverse Event
+- Lactic acidosis
+
+### Severity & Criteria
+- Severe
+- Life-threatening
+- Requires hospitalization/ICU management
+
+### Seriousness & Criteria
+- Serious
+- Requires hospitalization
+- Life-threatening
+
+### Expectedness & Criteria
+- Expected
+- Listed in SmPC/Label
+- Known ADR
+
+### Clinical Impact & Rationale
+- High clinical impact
+- ICU management
+- Risk of permanent damage/fatal outcome
+
+---
+
+## Case 4 — Atorvastatin
+
+### Adverse Event
+- Mild ALT/AST elevation
+
+### Severity & Criteria
+- Mild
+- Asymptomatic / no intervention
+- Monitored with follow-up tests
+
+### Seriousness & Criteria
+- Non-serious
+- Does not meet serious criteria
+- No hospitalization
+
+### Expectedness & Criteria
+- Expected
+- Listed in SmPC/Label
+- Liver enzyme elevation
+
+### Clinical Impact & Rationale
+- Low clinical impact
+- Monitoring and follow-up advised
+- Usually reversible
+
+
+## Case 5 — Levofloxacin
+
+### Adverse Event
+**Tendon rupture (requiring surgical repair)**
+
+### Severity & Criteria
+**Severe**
+- Requires surgical intervention
+- Significant disability risk
+
+### Seriousness & Criteria
+**Serious**
+- Requires hospitalization/surgery
+- Significant disability
+
+### Expectedness & Criteria
+**Expected**
+- Listed in SmPC/Label
+- Tendon disorders
+
+### Clinical Impact & Rationale
+**High clinical impact**
+- Surgical repair required
+- May lead to long-term functional impairment
+
+
+#  SUMMARY
+
+ Cases Assessed - 5
+ Serious Cases - 3 
+ Non-serious Cases - 2 
+ Expected Cases - 5 
+ Unexpected Cases - 0 
+
+
+# KEY TAKEAWAYS
+
+- Severity - describes the intensity of the event.
+- Seriousness - is based on clinical outcome/criteria.
+- Expectedness - is assessed against the applicable product information (SmPC/Label), not general knowledge.
+- All 5 cases are listed adverse reactions in their respective SmPC/Labels; none are unexpected in this set.
+- Accurate classification ensures proper risk management and patient safety.
+
+
+
