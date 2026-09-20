@@ -1,0 +1,115 @@
+TASK 5 | ICSR CASE ASSESSMENT
+
+1. CASE VALIDITY
+
+Identifiable Patient: Yes - Male 50years
+
+Identifiable Reporter: Yes – Pharmacist, Germany
+
+Suspected Product: Paracetamol
+
+Adverse Event: Liver failure
+
+ICSR Status: Valid ICSR
+
+
+2. PATIENT INFORMATION
+
+Parameter 	    -    Details
+
+Age	            -    50s
+Sex	            -    Male
+Weight	        -    172.8 kg
+Height	        -    188 cm
+Medical History	-  Chronic back pain
+
+3.PRODUCT EXPOSURE
+
+Drug         - Paracetamol
+Dose	       - 8 g/day
+Route	       - Oral
+Dosage Form	 - Tablet
+Duration	   - 6 months
+Frequency    -	Not routinely reported
+Indication	 - Chronic back pain
+
+
+4.EVENT ASSESSMENT
+
+Event           -	Liver failure
+Onset	          - 03 May 2015
+Severity        - Severe
+Clinical Impact -	Life-threatening hospitalization
+Outcome	        - Recovered with sequelae
+
+
+5. SERIOUSNESS ASSESSMENT
+
+Life-threatening                 : Yes
+
+Hospitalization                  : Yes
+
+Persistent/significant disability: Yes
+
+Other medically important        : Not reported
+
+Overall                          : Serious
+
+
+6. CAUSALITY ASSESSMENT
+
+Reporter Assessment     : Certain / 100%
+Temporal relationship	  : Reasonable
+Dechallenge             :	Positive
+Rechallenge	            : Positive
+Alternative causes	    : None reported
+
+WHO-UMC Causality       : Certain
+
+7. EXPECTEDNESS & MedDRA CODING
+
+Expectedness   : Cannot be determined from case data
+
+Reference      : Approved product labeling / SmPC
+
+Verbatim Term  : Liver failure
+
+MedDRA Coding  : Verify appropriate MedDRA LLT/PT
+
+
+8. DECHALLENGE / RECHALLENGE / INVESTIGATIONS
+
+Dechallenge                   : Positive – paracetamol was withdrawn and the patient recovered.
+
+Rechallenge                   : Positive – recurrence of liver failure was reported.
+
+Investigations                : Liver function abnormalities were reported.
+
+Relevant laboratory parameters: ALT, AST and INR.
+
+
+9. FOLLOW - UP INFORMATION NEEDED
+
+ Confirm exact rechallenge date, dose and timing.
+
+ Obtain ALT, AST and INR values.
+
+ Obtain paracetamol serum/plasma concentration, if available.
+
+ Confirm alcohol consumption and other hepatotoxic exposures.
+
+ Verify the approved product label/SmPC for expectedness.
+
+
+10. FINAL CASE DISPOSITION
+
+ICSR Validity	Valid ICSR
+Seriousness	Serious
+WHO-UMC Causality	Certain
+Expectedness	Requires verification
+Follow-up Priority	High
+
+
+Professional Case Narrative
+
+A male patient in his 50s developed liver failure after self-medicating with paracetamol 8 g/day for approximately six months for chronic back pain. He required hospitalization for a life-threatening hepatic event. Paracetamol was withdrawn, followed by recovery with sequelae. A positive rechallenge was subsequently reported, with recurrence of liver failure. The reporter assessed the causal relationship as certain. No alternative causes were reported. Based on the available information, this case represents a valid and serious ICSR with a WHO-UMC causality assessment of Certain.
